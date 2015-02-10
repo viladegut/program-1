@@ -1,0 +1,16 @@
+// holamundo.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+int main()
+{
+  cout<<"holamundo";
+  cout<<"bolivianos el hado propicio"
+  getch(); 
+  return 0;
+}
